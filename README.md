@@ -11,7 +11,7 @@ This project combines Natural Language Processing, VADER sentiment analysis, and
 🔗 **Live Application**  
 Add your deployed Streamlit link here
 
-Example:
+Link:
 
 https://ai-hinglish-sentiment-dashboard-o7zdpguf3a5kc6ddbaamed.streamlit.app/
 
