@@ -13,9 +13,7 @@ Add your deployed Streamlit link here
 
 Example:
 
-```plaintext
-https://your-app-name.streamlit.app
-```
+https://ai-hinglish-sentiment-dashboard-o7zdpguf3a5kc6ddbaamed.streamlit.app/
 
 ---
 
@@ -65,13 +63,13 @@ https://your-app-name.streamlit.app
 
 ## 📊 Batch Analysis
 
-![Batch Analysis](assets/batch analysis.jpeg)
+![Batch Analysis](assets/batch_analysis.jpeg)
 
 ---
 
 ## 🧠 Theme Analytics
 
-![Theme Analytics](assets/theme analytics.jpeg)
+![Theme Analytics](assets/batch_sentiment_analysis.jpeg)
 
 ---
 
