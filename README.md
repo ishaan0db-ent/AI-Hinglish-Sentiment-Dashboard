@@ -61,13 +61,13 @@ https://ai-hinglish-sentiment-dashboard-o7zdpguf3a5kc6ddbaamed.streamlit.app/
 
 ---
 
-## 📊 Batch Analysis
+## 📊 Batch Analysis with Theme 
 
 ![Batch Analysis](assets/batch_analysis.jpeg)
 
 ---
 
-## 🧠 Theme Analytics
+## 🧠 Batch Sentiment Analytics
 
 ![Theme Analytics](assets/batch_sentiment_analysis.jpeg)
 
